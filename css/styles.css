@@ -32,6 +32,7 @@ li {
  .main {
    padding: 20px 40px 0px 40px;
    height: 700px;
+   padding: 0px;
  }
 
 .main-logo {
@@ -58,6 +59,7 @@ li {
 
 .contents h3 {
   font-size: 20px;
+  width:1000px;
   border-bottom:  1px solid #dee7ec;
 }
 
